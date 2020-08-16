@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MovieAppRME</string>
+    <string name="contact">Contact us</string>
+    <string name="go_back">Go back</string>
+    <string name="you_can_contact_us_by_filling_this_form">You can contact us by filling this form.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="comment">Comment</string>
+    <string name="this_is_the_main_page">This is the main page</string>
+    <string name="showing_movie_details">SHOWING MOVIE DETAILS</string>
+    <string name="actors_list">ACTORS (LIST):</string>
+    <string name="genres_list">GENRES (LIST):</string>
+    <string name="revenue">REVENUE:</string>
+    <string name="votes">VOTES:</string>
+    <string name="rating">RATING:</string>
+    <string name="runtime">RUNTIME:</string>
+    <string name="year">YEAR:</string>
+    <string name="director">DIRECTOR:</string>
+    <string name="description">DESCRIPTION:</string>
+    <string name="title">TITLE:</string>
+    <string name="id">ID:</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="emoji1">🎥</string>
+    <string name="add_movie">ADD MOVIE</string>
+    <string name="writer">WRITER:</string>
+    <string name="show_actors">Show Actors</string>
+    <string name="show_genres">Show Genres</string>
+</resources>
